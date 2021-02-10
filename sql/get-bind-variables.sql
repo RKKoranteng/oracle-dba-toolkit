@@ -1,4 +1,4 @@
--- author : Richard Koranteng
+-- author : Richard Koranteng (rkkoranteng.com)
 -- date   : 2/10/2021
 -- desc   : use this sql to obtain bind variable inputed for a sql query - you'll be prompted to enter sql_id
 
